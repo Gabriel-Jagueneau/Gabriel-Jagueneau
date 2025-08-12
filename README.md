@@ -13,11 +13,18 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
+<br>
+
+---
+
+<br>
 
 ## 🚀 About Me
 Passionate about **web development**, **scripting** and **automation**, I enjoy building clean, efficient, and scalable solutions.  
 I constantly seek to learn new technologies and improve my skills through real-world projects.
 
+
+<br>
 
 ## 📌 Main Interests
 - Frontend development with modern JavaScript and styling techniques
@@ -25,6 +32,7 @@ I constantly seek to learn new technologies and improve my skills through real-w
 - Version control and collaborative development with Git & GitHub
 - Performance optimization and clean code practices
 
+<br>
 
 ## 📫 Contact
 - 📧 **Email**: gab.jagueneau@gmail.com  
