@@ -4,7 +4,7 @@
   <b>Passionate developer • Future agronomy engineer</b>  
 </p>
 
-<p style="font-size: 24px;">
+<p style="font-size: 32px;">
   Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
   My goal: combine digital innovation with agronomy to tackle tomorrow’s challenges.
 </p>
