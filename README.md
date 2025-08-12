@@ -1,10 +1,12 @@
-# Gabriel Jagueneau 👋
+<h1 align="center">
+  Gabriel Jagueneau 👋 
+</h1>
 
-<p align="center">
+<h2 align="center">
   <b>Passionate developer • Future agronomy engineer</b>  
-</p>
+</h2>
 
-<p style="font-size: 32px;">
+<p>
   Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
   My goal: combine digital innovation with agronomy to tackle tomorrow’s challenges.
 </p>
