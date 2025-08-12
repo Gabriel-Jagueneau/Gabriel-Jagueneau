@@ -1,6 +1,13 @@
-# Gabriel Jagueneau – Passionate developer & future agronomy engineer.
-Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
+# Gabriel Jagueneau 👋
+
+<p align="center">
+  <b>Passionate developer • Future agronomy engineer</b>  
+</p>
+
+<p font-size="20px">
+  Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
 My goal: combine digital innovation with agronomy to tackle tomorrow’s challenges.
+</p>
 
 <br>
 
