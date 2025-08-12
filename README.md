@@ -2,9 +2,9 @@
   Gabriel Jagueneau 👋 
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   <b>Passionate developer • Future agronomy engineer</b>  
-</h2>
+</h3>
 
 <p>
   Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
