@@ -7,8 +7,8 @@
 </h3>
 
 <p>
-  Since **2019**, I’ve been creating projects in **JavaScript** and **web development** while pursuing a **dual degree** in **agronomy and biology**. <br>
-  **My goal:** combine digital innovation with agronomy to tackle tomorrow’s challenges.
+  Since <strong>2019</strong>, I’ve been creating projects in <strong>JavaScript</strong> and <strong>web development</strong> while pursuing a <strong>dual degree</strong> in <strong>agronomy and biology</strong>. <br>
+  <strong>My goal:</strong> combine digital innovation with agronomy to tackle tomorrow’s challenges.
 </p>
 
 <br>
