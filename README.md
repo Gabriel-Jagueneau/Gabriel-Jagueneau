@@ -1,4 +1,12 @@
-# 👋 Hi there, I'm Gabriel Jagueneau
+# Gabriel Jagueneau – Passionate developer & future agronomy engineer.
+Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
+My goal: combine digital innovation with agronomy to tackle tomorrow’s challenges.
+
+<br>
+
+---
+
+<br>
 
 <p align="left">
   <!-- Languages -->
@@ -12,10 +20,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-
-<br>
-
----
 
 <br>
 
