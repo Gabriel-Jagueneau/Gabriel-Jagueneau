@@ -26,15 +26,13 @@ Currently studying **engineering and biology**, aiming for a **double degree**.
 
 <div style="display: flex; flex-direction: row; gap: 20px;">
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
-
-        <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
-            <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2005</div>
-            <div style="margin-left: 20px; font-size: 16px;">
+    <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
+          <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2005</div>
+          <div style="margin-left: 20px; font-size: 16px;">
                 <strong>Hello!</strong><br>
                 My name is <strong>Gabriel Jagueneau</strong> <i>(as you may have noticed already..)</i>
             </div>
         </div>
-
         <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
             <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2019</div>
             <div style="margin-left: 20px; font-size: 16px;">
@@ -43,7 +41,6 @@ Currently studying **engineering and biology**, aiming for a **double degree**.
                 <span style="background: #555; padding: 2px 6px; border-radius: 6px; font-size: 14px; color: #ddd;">National Brevet Diploma</span>
             </div>
         </div>
-
         <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
             <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2022</div>
             <div style="margin-left: 20px; font-size: 16px;">
@@ -51,21 +48,18 @@ Currently studying **engineering and biology**, aiming for a **double degree**.
                 Passion for **web development** truly started here.
             </div>
         </div>
-
         <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
             <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2023</div>
             <div style="margin-left: 20px; font-size: 16px;">
                 <span style="background: #555; padding: 2px 6px; border-radius: 6px; font-size: 14px; color: #ddd;">French Baccalauréat</span>
             </div>
         </div>
-
         <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
             <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2024</div>
             <div style="margin-left: 20px; font-size: 16px;">
                 <span style="background: #555; padding: 2px 6px; border-radius: 6px; font-size: 14px; color: #ddd;">60 ECTS Certificate</span>
             </div>
         </div>
-
         <div style="position: relative; display: flex; flex-direction: row; align-items: center; margin-bottom: 20px;">
             <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2025</div>
             <div style="margin-left: 20px; font-size: 16px;">
@@ -74,21 +68,19 @@ Currently studying **engineering and biology**, aiming for a **double degree**.
                 <span style="background: #555; padding: 2px 6px; border-radius: 6px; font-size: 14px; color: #ddd;">120 ECTS Certificate</span>
             </div>
         </div>
-
         <div style="position: relative; display: flex; flex-direction: row; align-items: center;">
             <div style="min-width: 60px; padding: 4px 10px; background-color: #555; border-radius: 10px; text-align: center; font-weight: 600; color: white;">2028</div>
             <div style="margin-left: 20px; font-size: 16px;">
                 Future goal: combine programming & agronomy to achieve ambitious career objectives.
             </div>
         </div>
-
     </div>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGreatMegalodon&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Jagueneau&show_icons=true&theme=radical)
 
 ---
 
