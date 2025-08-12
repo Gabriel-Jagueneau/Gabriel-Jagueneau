@@ -7,8 +7,8 @@
 </h3>
 
 <p>
-  Since 2019, I’ve been creating projects in JavaScript and web development while pursuing a dual degree in engineering and biology. <br>
-  My goal: combine digital innovation with agronomy to tackle tomorrow’s challenges.
+  Since **2019**, I’ve been creating projects in **JavaScript** and **web development** while pursuing a **dual degree** in **agronomy and biology**. <br>
+  **My goal:** combine digital innovation with agronomy to tackle tomorrow’s challenges.
 </p>
 
 <br>
@@ -31,12 +31,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-
-<br>
-
-## 🚀 About Me
-Passionate about **web development**, **scripting** and **automation**, I enjoy building clean, efficient, and scalable solutions.  
-I constantly seek to learn new technologies and improve my skills through real-world projects.
 
 <br>
 
