@@ -45,6 +45,6 @@
 
 ## 📫 Contact
 * **Email**: gab.jagueneau@gmail.com  
-* **Portfolio**: https://gjagueneau.be/
+* **Portfolio**: https://gjagueneau.eu/
 * **Other GitHub**: [TheGreatMegalodon](https://github.com/TheGreatMegalodon)
 
