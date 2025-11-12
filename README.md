@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <b>Passionate developer • Future agronomy engineer</b>  
+  <b>Passionate developer • Future agronomy engineer • Student-Entrepreneur</b>  
 </h3>
 
 <p>
