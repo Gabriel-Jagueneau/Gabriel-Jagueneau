@@ -16,7 +16,7 @@
 
 <br>
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,7 +36,7 @@
 
 <br>
 
-## 📌 Main Interests
+## Main Interests
 - Frontend development with modern JavaScript and styling techniques
 - Backend scripting and automation with Python & Bash
 - Version control and collaborative development with Git & GitHub
@@ -44,7 +44,7 @@
 
 <br>
 
-## 📫 Contact
+## Contact
 * **Email**: gab.jagueneau@gmail.com  
 * **Portfolio**: https://gjagueneau.eu/
 * **Other GitHub**: [TheGreatMegalodon](https://github.com/TheGreatMegalodon)
