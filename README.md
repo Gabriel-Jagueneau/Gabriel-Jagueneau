@@ -7,7 +7,7 @@
 </h3>
 
 <p>
-  Since <strong>2019</strong>, I’ve been creating projects in <strong>JavaScript</strong> and <strong>web development</strong> while pursuing a <strong>dual degree</strong> in <strong>agronomy and biology</strong>. <strong>My goal:</strong> combine digital innovation with agronomy to tackle tomorrow’s challenges.
+  Since <strong>2019</strong>, I’ve been creating projects in <strong>JavaScript</strong> and <strong>web development</strong> while pursuing a <strong>degree</strong> in <strong>agronomy</strong>. <strong>My goal:</strong> combine digital innovation with agronomy to tackle tomorrow’s challenges.
 </p>
 
 <br>
