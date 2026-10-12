@@ -12,10 +12,6 @@
 
 <br>
 
----
-
-<br>
-
 ## Tech Stack & Tools
 <p align="left">
   <!-- Languages -->
