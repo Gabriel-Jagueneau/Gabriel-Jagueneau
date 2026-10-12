@@ -41,14 +41,6 @@
 
 <br>
 
-## Main Interests
-- Frontend development with modern JavaScript and styling techniques
-- Backend scripting and automation with Python & Bash
-- Version control and collaborative development with Git & GitHub
-- Performance optimization and clean code practices
-
-<br>
-
 ## Contact
 * **Email**: gab.jagueneau@gmail.com  
 * **Portfolio**: https://gjagueneau.fr
